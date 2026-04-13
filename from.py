@@ -1,2 +1,4 @@
-for i in range(5):
-    print("Count:", i)
+L = [1,2,3,4]
+
+for i in L:
+  print(i)
